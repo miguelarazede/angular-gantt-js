@@ -3,6 +3,10 @@
     "rules": {
       "member-ordering": false,
       "no-inferrable-types": true,
-      "prefer-for-of": true
+      "prefer-for-of": true,
+      "semi": 0,
+      "@typescript-eslint/semi": "off",
+      "semicolon": true,
+      "space-before-function-paren": false
     }
 }
